@@ -16,7 +16,7 @@ The top 3 participants that identify vulnerabilities or oportunities of improvem
 2. Second place: **0.35%** 
 3. Third place: **0.15%** 
 
-The funds will come from the Genesis Sale scheduled for **Friday, 2022-03-04, 18:00 UTC**. 
+The funds will come from the ZenTangle Avatars Genesis Sale scheduled for **Friday, 2022-03-04, 18:00 UTC**. 
 
 The ZenTangle Attack-a-Thon runs for around 10 days: it starts on the 18th of February 2022 at 1800 UTC and ends on the 28th of February 2022 at 1800 UTC.
 
