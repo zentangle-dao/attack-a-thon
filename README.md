@@ -19,7 +19,7 @@ Data Clustering (Open Source Smart Contract)
 NFT Sale Service (Live)
 
 The rules of engagement are pretty simple:
-Hacker to submit a valid entry to the this repository during the defined time period to be eligible for prize.
-Every issue in the scope counts singularly (e.g. If an injection makes it possible to escalate privileges it counts as two issues).
-The evaluation committee might count the submission if it is a particular vulnerability outside of the proposed scope.
-Share your discord user through the ZenTangle Community Channel, and coordinate with Zignar Team to present your findings for the final community voting under the ZenTangle DAO. 
+1.- Hacker to submit a valid entry to the this repository during the defined time period to be eligible for prize.
+2.- Every issue in the scope counts singularly (e.g. If an injection makes it possible to escalate privileges it counts as two issues).
+3.- The evaluation committee might count the submission if it is a particular vulnerability outside of the proposed scope.
+4.- Share your discord user through the ZenTangle Community Channel, and coordinate with Zignar Team to present your findings for the final community voting under the ZenTangle DAO. 
