@@ -21,7 +21,7 @@ The ZenTangle Attack-a-Thon runs for around 10 days: it starts on the 18th of Fe
 The selection of the winning hackers will be held through a voting pool at ZenTangle DAO, Soonaverse Space.
 
 The Scope of the Attack-a-Thon are the following ZenTangle components:
-1. [Data Clustering (Open Source Smart Contract)](https://github.com/zignartech/zentangle-wasp)
+1. [Data Clustering Smart Contract](https://github.com/zignartech/zentangle-wasp)
 2. NFT Sale Service (DevNet Tokens)
 
 The rules of engagement are pretty simple:
