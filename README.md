@@ -1,7 +1,7 @@
-# attack-a-thon
+# ZenTangle Attack-a-thon
 ZenTangle team is keen to see the ecosystem running in production. Now, after months of development and testing, we are closer to the transition to IOTA Mainnet and Assembly Networks. However, before opening the gates for real funds, we have to test the security of the ZenTangle key components.
 
-# Monday, 2022-02-18, 16:00 UTC to Friday, 2022-02-28, 16:00 UTC
+## Monday, 2022-02-18, 16:00 UTC to Friday, 2022-02-28, 16:00 UTC
 
 ZenTangle team is keen to see the ecosystem running in production. Now, after months of development and testing, we are closer to the transition to IOTA Mainnet and Assembly Networks. However, before opening the gates for real funds, we have to test the security of the ZenTangle key components.
 
