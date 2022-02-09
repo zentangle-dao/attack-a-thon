@@ -3,7 +3,7 @@ ZenTangle team is keen to see the ecosystem running in production. Now, after mo
 
 ## Monday, 2022-02-18, 16:00 UTC to Friday, 2022-02-28, 16:00 UTC
 
-https://user-images.githubusercontent.com/51343893/153116127-a5ae5a1f-bcbb-4338-b3c5-df9c00c60d1a.png
+![Shield](https://user-images.githubusercontent.com/51343893/153116127-a5ae5a1f-bcbb-4338-b3c5-df9c00c60d1a.png)
 
 ZenTangle team is keen to see the ecosystem running in production. Now, after months of development and testing, we are closer to the transition to IOTA Mainnet and Assembly Networks. However, before opening the gates for real funds, we have to test the security of the ZenTangle key components.
 
