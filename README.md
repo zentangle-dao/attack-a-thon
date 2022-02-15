@@ -7,7 +7,7 @@ ZenTangle team is keen to see the ecosystem running in production. Now, after mo
 
 In the lead-up to the transition to mainnet, we are inviting the IOTA community members to the Vision Legends Attack-a-Thon! With this event we would like to challenge you to try and break different parts of the Data Clustering Smart Contract and the NFT Auction Sale Service. You will be rewarded for your findings.
 
-The ZenTangle Attack-a-Thon is a security researcher/developer/rustacean/reactacean oriented challenge. Everyone is invited to join and try to grab a few great prizes. It’s intended as a fun community experience, which you will see reflected in the rewards. The top 3 attackers that identify vulnerabilities or oportunities of improvement around the Data Clustering Smart Contract, or the NFT Auction Sale Service will get: 
+The Attack-a-Thon is a security researcher / developer / rustacean / reactacean oriented challenge. Everyone is invited to join and try to grab a few great prizes. It’s intended as a fun community experience, which you will see reflected in the rewards.
 
 1. First Place 0.5% of the Genesis Sale + 3 Genesis NFT Cards
 1. First Place 0.3% of the Genesis Sale + 2 Genesis NFT Cards
