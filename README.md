@@ -15,16 +15,16 @@ The Attack-a-Thon is a security researcher / developer / rustacean / reactacean 
 
 *Funds will be paid in IOTA Mainnet Tokens.
 
-The ZenTangle Attack-a-Thon runs for around 10 days: it starts on the 18th of February 2022 at 1800 UTC and ends on the 28th of February 2022 at 1800 UTC.
+The ZenTangle Vision Legends Attack-a-Thon runs for around 10 days: it starts on the 25th of February 2022 at 1800 UTC and ends on the 07th of March 2022 at 1800 UTC.
 
-The selection of the winning hackers will be held through a voting pool at ZenTangle DAO, Soonaverse Space.
+The selection of the winning hackers will be held through a voting pool at [ZenTangle DAO, Soonaverse Space] (https://soonaverse.com/space/0x135f8d39d3c99ec3f7a75937bcff2bbaccdc2c97/overview).
 
 The Scope of the Attack-a-Thon are the following ZenTangle components:
 1. [Data Clustering Smart Contract](https://github.com/zignartech/zentangle-wasp)
 1. NFT Auction Sale Service (To be released soon)
 
 The rules of engagement are pretty simple:
-Hacker to submit a valid entry to the this repository during the defined time period to be eligible for prize.
-Every issue in the scope counts singularly (e.g. If an injection makes it possible to escalate privileges it counts as two issues).
-The evaluation committee might count the submission if it is a particular vulnerability outside of the proposed scope.
-Share your discord user through the ZenTangle Community Channel, and coordinate with Zignar Team to present your findings for the final community voting under the ZenTangle DAO. 
+1. Hacker to submit a valid entry to the this repository during the defined time period to be eligible for prize.
+1. Every issue in the scope counts singularly (e.g. If an injection makes it possible to escalate privileges it counts as two issues).
+1. The evaluation committee might count the submission if it is a particular vulnerability outside of the proposed scope.
+1. Share your discord user through the ZenTangle Community Channel, and coordinate with Zignar Team to present your findings for the final community voting under the ZenTangle DAO. 
