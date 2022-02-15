@@ -21,7 +21,7 @@ The selection of the winning hackers will be held through a voting pool at ZenTa
 
 The Scope of the Attack-a-Thon are the following ZenTangle components:
 1. [Data Clustering Smart Contract](https://github.com/zignartech/zentangle-wasp)
-1. NFT Auction Sale Service (Mainnet IOTA Tokens)(To be released soon)
+1. NFT Auction Sale Service (To be released soon)
 
 The rules of engagement are pretty simple:
 Hacker to submit a valid entry to the this repository during the defined time period to be eligible for prize.
