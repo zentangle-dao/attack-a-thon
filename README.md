@@ -1,11 +1,11 @@
 # ZenTangle Attack-a-thon
-ZenTangle team is keen to see the ecosystem running in production. Now, after months of development and testing, we are closer to the transition to IOTA Mainnet and Assembly Networks. However, before opening the gates for real funds, we have to test the security of the ZenTangle key components.
+ZenTangle team is keen to see the ecosystem running in production. Now, after months of development and testing, we are closer to the transition to IOTA Mainnet and Assembly Networks. However, before opening the gates for real funds, we have to test the security of the ZenTangle Vision Legends key components.
 
-## Monday, 2022-02-18, 18:00 UTC to Friday, 2022-02-28, 18:00 UTC
+## Monday, 2022-02-25, 18:00 UTC to Friday, 2022-03-07, 18:00 UTC
 
 ![Shield](https://user-images.githubusercontent.com/51343893/154163150-34e0d0d0-cb72-48da-9fac-aed98311bfb6.png)
 
-In the lead-up to the transition to mainnet, we are inviting the IOTA community members to the ZenTangle Attack-a-Thon! With this event we would like to challenge you to try and break different parts of the Data Clustering Smart Contract and the NFT Auction Sale Service. You will be rewarded for your findings.
+In the lead-up to the transition to mainnet, we are inviting the IOTA community members to the Vision Legends Attack-a-Thon! With this event we would like to challenge you to try and break different parts of the Data Clustering Smart Contract and the NFT Auction Sale Service. You will be rewarded for your findings.
 
 The ZenTangle Attack-a-Thon is a security researcher/developer/rustacean/reactacean oriented challenge. Everyone is invited to join and try to grab a few great prizes. It’s intended as a fun community experience, which you will see reflected in the rewards. The top 3 attackers that identify vulnerabilities or oportunities of improvement around the Data Clustering Smart Contract, or the NFT Auction Sale Service will get: 
 
@@ -21,7 +21,7 @@ The selection of the winning hackers will be held through a voting pool at ZenTa
 
 The Scope of the Attack-a-Thon are the following ZenTangle components:
 1. [Data Clustering Smart Contract](https://github.com/zignartech/zentangle-wasp)
-1. [NFT Auction Sale Service (Mainnet IOTA Tokens)]()
+1. NFT Auction Sale Service (Mainnet IOTA Tokens)(To be released soon)
 
 The rules of engagement are pretty simple:
 Hacker to submit a valid entry to the this repository during the defined time period to be eligible for prize.
