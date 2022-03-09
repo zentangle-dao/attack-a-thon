@@ -15,7 +15,7 @@ The Attack-a-Thon is a security researcher / developer / rustacean / reactacean 
 
 *Funds will be paid in IOTA Mainnet Tokens.
 
-The ZenTangle Vision Legends Attack-a-Thon runs for around 10 days: it starts on the 25th of February 2022 at 1800 UTC and ends on the 07th of March 2022 at 1800 UTC.
+The ZenTangle Vision Legends Attack-a-Thon runs for around 10 days: it starts on the 25th of February 2022 at 1800 UTC and ends on the 26th of April 2022 at 1800 UTC.
 
 The selection of the winning hackers will be held through a voting pool at [ZenTangle DAO, Soonaverse Space] (https://soonaverse.com/space/0x135f8d39d3c99ec3f7a75937bcff2bbaccdc2c97/overview).
 
